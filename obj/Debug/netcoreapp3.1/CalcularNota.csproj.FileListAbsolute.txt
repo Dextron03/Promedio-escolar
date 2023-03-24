@@ -1,0 +1,16 @@
+C:\Users\Braily\Desktop\Tareas\Nelson Blanco\CalcularNota\CalcularNota\bin\Debug\netcoreapp3.1\CalcularNota.exe
+C:\Users\Braily\Desktop\Tareas\Nelson Blanco\CalcularNota\CalcularNota\bin\Debug\netcoreapp3.1\CalcularNota.deps.json
+C:\Users\Braily\Desktop\Tareas\Nelson Blanco\CalcularNota\CalcularNota\bin\Debug\netcoreapp3.1\CalcularNota.runtimeconfig.json
+C:\Users\Braily\Desktop\Tareas\Nelson Blanco\CalcularNota\CalcularNota\bin\Debug\netcoreapp3.1\CalcularNota.runtimeconfig.dev.json
+C:\Users\Braily\Desktop\Tareas\Nelson Blanco\CalcularNota\CalcularNota\bin\Debug\netcoreapp3.1\CalcularNota.dll
+C:\Users\Braily\Desktop\Tareas\Nelson Blanco\CalcularNota\CalcularNota\bin\Debug\netcoreapp3.1\CalcularNota.pdb
+C:\Users\Braily\Desktop\Tareas\Nelson Blanco\CalcularNota\CalcularNota\obj\Debug\netcoreapp3.1\CalcularNota.csproj.AssemblyReference.cache
+C:\Users\Braily\Desktop\Tareas\Nelson Blanco\CalcularNota\CalcularNota\obj\Debug\netcoreapp3.1\CalcularNota.Form1.resources
+C:\Users\Braily\Desktop\Tareas\Nelson Blanco\CalcularNota\CalcularNota\obj\Debug\netcoreapp3.1\CalcularNota.csproj.GenerateResource.cache
+C:\Users\Braily\Desktop\Tareas\Nelson Blanco\CalcularNota\CalcularNota\obj\Debug\netcoreapp3.1\CalcularNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braily\Desktop\Tareas\Nelson Blanco\CalcularNota\CalcularNota\obj\Debug\netcoreapp3.1\CalcularNota.AssemblyInfoInputs.cache
+C:\Users\Braily\Desktop\Tareas\Nelson Blanco\CalcularNota\CalcularNota\obj\Debug\netcoreapp3.1\CalcularNota.AssemblyInfo.cs
+C:\Users\Braily\Desktop\Tareas\Nelson Blanco\CalcularNota\CalcularNota\obj\Debug\netcoreapp3.1\CalcularNota.csproj.CoreCompileInputs.cache
+C:\Users\Braily\Desktop\Tareas\Nelson Blanco\CalcularNota\CalcularNota\obj\Debug\netcoreapp3.1\CalcularNota.dll
+C:\Users\Braily\Desktop\Tareas\Nelson Blanco\CalcularNota\CalcularNota\obj\Debug\netcoreapp3.1\CalcularNota.pdb
+C:\Users\Braily\Desktop\Tareas\Nelson Blanco\CalcularNota\CalcularNota\obj\Debug\netcoreapp3.1\CalcularNota.genruntimeconfig.cache
